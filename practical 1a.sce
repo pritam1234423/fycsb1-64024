@@ -1,0 +1,10 @@
+F=65 //no of french learning student
+G=45 //
+R=42
+FandG=20
+FandR=25
+GandR=15
+FandGandR=8
+n=120
+ForGorR=F+G+R-FandG-FandR-GandR+FandGandR
+disp(ForGorR,'The total no of student learning either language=')
